@@ -96,10 +96,13 @@ Insights from the heatmap help in understanding travel patterns and frequent rou
 
 ## Key Insights
 
-The interactive heatmap displays the most visited airports.
-The heatmap features a slider to adjust the intensity, helping to visualize the data more effectively.
-Frequent hubs are highlighted with more intense heat spots.
-Live Demo
+- The interactive heatmap displays the most visited airports.
+- The heatmap features a slider to adjust the intensity, helping to visualize the data more effectively.
+- Frequent hubs are highlighted with more intense heat spots.
+
+---
+
+## Live Demo
 
 You can explore the project and visualize the most visited airports on an interactive map via the Streamlit application.
 
@@ -111,7 +114,7 @@ Check out the live version here: ---
 
 This repository will be updated regularly as I continue to improve the project. Planned updates include:
 
-Enhancing the heatmap to include temporal analysis (e.g., by month or year) for better insights.
-Expanding the analysis to include sign-in and sign-off times.
-Improving the UI of the application to make it more user-friendly and visually appealing.
-Stay tuned for future improvements!
+- Enhancing the heatmap to include temporal analysis (e.g., by month or year) for better insights.
+- Expanding the analysis to include sign-in and sign-off times.
+- Improving the UI of the application to make it more user-friendly and visually appealing.
+- Stay tuned for future improvements!
