@@ -1,5 +1,4 @@
 # FlightAttendantRosterAnalysis
-# Flight Attendant Roster Analysis
 
 This project analyzes and visualizes my flight schedule as a flight attendant. The key output is an **interactive heatmap** of the most visited airports. The project follows the **data analytics cycle** and is deployed as a **Streamlit** web application.
 
@@ -95,7 +94,7 @@ Insights from the heatmap help in understanding travel patterns and frequent rou
 
 ---
 
-##Key Insights
+## Key Insights
 
 The interactive heatmap displays the most visited airports.
 The heatmap features a slider to adjust the intensity, helping to visualize the data more effectively.
@@ -108,7 +107,7 @@ Check out the live version here: ---
 
 ---
 
-##Future Updates
+## Future Updates
 
 This repository will be updated regularly as I continue to improve the project. Planned updates include:
 
