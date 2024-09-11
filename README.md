@@ -72,7 +72,7 @@ Insights from the heatmap help in understanding travel patterns and frequent rou
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/flight-roster-analysis.git
+   git clone https://github.com/SnuggerG/flight-roster-analysis.git
    cd flight-roster-analysis
 2. **Install Dependencies**: 
     ```bash
