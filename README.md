@@ -104,9 +104,9 @@ Insights from the heatmap help in understanding travel patterns and frequent rou
 
 ## Live Demo
 
-You can explore the project and visualize the most visited airports on an interactive map via the Streamlit application.
+You can explore the project and visualize the **most visited airports** on an interactive map via the **Streamlit application**.
 
-Check out the live version here: #
+**Check out the live version here**: [Streamlit App Link](https://flightattendantrosteranalysis-jdeg9e8gxqgefjey8c7rvr.streamlit.app)
 
 ---
 
